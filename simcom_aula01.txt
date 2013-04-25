@@ -1,0 +1,23 @@
+- metodos computacionais algebra linear
+	gauss, jacobi, seidel, decomposicao SVD
+- teoria de interpolacao
+	lagrange, hermite
+- integracao numerica (quadratura)
+	traoezios, gauss
+- edo: met. numericos
+	euler, taylor, runge-kutta
+- simulacao estocastica:
+	metodo de montecarlo, reducao de variancia
+- simulacao de equacoes diferencias estocatisicas
+	metodos numericos
+
+
+bibliografia:
+conte,S.D. 
+	Elementary Numerical Analysis. An algorithmic approach.
+
+gilbert strang:
+	introduction to applied Mathematics
+	computational science engineering, 2007
+DJ Higham, 2004:
+	an introduction to financial option valuation: mathematic, stochastic, computation
